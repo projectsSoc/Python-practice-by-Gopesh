@@ -1,5 +1,5 @@
-a = int(input("Please enter a number: "))
-b = int(input("Please enter the other number: "))
+a = int(input("Please enter a number:"))
+b = int(input("Please enter the other number:"))
 
 a1 = str(a)
 b1 = str(b)
